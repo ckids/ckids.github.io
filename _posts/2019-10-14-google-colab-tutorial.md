@@ -2,11 +2,12 @@
 layout: post
 title:  "Google Colab tutorial"
 date:   2019-10-14 10:38:00 -0700
-categories: [Colab, Google, Notebooks, Jupyter]
+categories: [Colab, Google, Notebooks, Jupyter, Sanjiv Soni]
 ---
 
-#### Google Colab
-
+### Google Colab
+###### Author: Sanjiv Soni
+---------------------------------------------------
 Google Colab provides a cloud based workspace just like Jupiter Notebooks for performing analysis, munging data and creating visualisations and a lot more.
 
 For those of you who are are not familiar with python Notebooks, a notebook is a file/document where you can write code and also write descriptive text explaining your analysis. It offers a reproducible environment. If you create a notebook with some blocks of code and write a few descriptions, others can continue or collaborate with you on the same notebook, given its readable and understandable.

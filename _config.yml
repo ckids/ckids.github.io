@@ -1,1 +1,52 @@
-theme: jekyll-theme-leap-day
+title: CKIDS Data Science Blogs
+description: Center for Knowledge-Powered Interdisciplinary Data Science (CKIDS)
+author: USC CKIDS
+github: https://github.com/ckids
+about: The USC Center for Knowledge-Powered Interdisciplinary Data Science (CKIDS) was established in Spring 2019 as a campus-wide organized research unit that serves as a nexus for data science collaborations across schools and departments in the university.
+# disqus_shortname: stackproblems
+# google_analytics: UA-XXXXXXXX-Y
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-globe
+      link: "https://sites.usc.edu/ckids"
+    - icon: fa-twitter
+      link: "https://twitter.com/CKIDS_USC"
+    - icon: fa-github
+      link: "https://github.com/ckids"
+
+share:
+  twitter_username: github.io
+  fb_appid: 1749788565247320
+
+urls:
+    - text: About Us
+      url: /about/
+    # - text: My Projects
+    #   url: /projects/
+    # - text: XML Feed
+    #   url: /feed.xml
+
+url: "https://ckids.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']

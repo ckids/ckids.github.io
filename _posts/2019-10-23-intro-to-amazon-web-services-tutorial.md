@@ -5,7 +5,7 @@ date:   2019-10-23 14:38:00 -0700
 categories: [Cloud, AWS, EC2, S3, Elastic, Zixuan Zhang]
 ---
 
-### Introduction to Amazon Web Services
+### Amazon Web Services (AWS)
 ###### Author: Zixuan Zhang
 ---------------------------------------------------
 AWS is a great technology, and a buzzword that everyone is talking about. So, what is AWS and what are some applications of AWS?
